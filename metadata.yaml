@@ -1,0 +1,9 @@
+homepage: "https://sportradar.com"
+documentation: "https://raw.githubusercontent.com/ads-marketing-cloud/ct-sportradar-bet-splip-event"
+versions:
+ # Latest version
+ - sha: d6625c8e0e986e3cf37700e3a390bd182a331dc3
+   changeNotes: Create initial template.
+ # Older versions
+ - sha: 186db1c9cbdc95ffe6fbb0bdc116eacd42405ba5
+   changeNotes: Create repository.
